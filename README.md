@@ -22,9 +22,9 @@ R.- El archivo se llama Main.java porque Java exige por regla que el nombre del 
 
 5)¿Qué ocurre si la clase se llama Programa pero el archivo se llama Main.java?
 R.-Si la clase es pública (public class Programa), el compilador de Java mostrará un error; si la clase no es pública (class Programa), el archivo compilará sin problemas
-Parte V.-
-Responder:
-¿Qué diferencia muestra Git entre la última versión confirmada y nuestra versión actual?
+##Parte V.-
+#3Responder:
+#¿Qué diferencia muestra Git entre la última versión confirmada y nuestra versión actual?
 R.-La diferencia entre la última versión confirmada (HEAD) y tu versión actual depende del estado de tus archivos (si están guardados en el área de preparación o no)
 Cambios guardados (Staged)Muestra los cambios que ya agregaste con git add pero que aún no has confirmado con un commit.Comando: git diff --staged (o git diff --cached).
 Cambios no guardados (Unstaged)Muestra las modificaciones en tus archivos actuales que aún no has agregado al área de preparación con git add.Comando: git diff.
