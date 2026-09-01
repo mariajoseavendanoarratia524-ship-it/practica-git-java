@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio05",
+            "request": "launch",
+            "mainClass": "ejercicios.Ejercicio05",
+            "projectName": "practica-git-java_f247b436"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio04",
+            "request": "launch",
+            "mainClass": "ejercicios.Ejercicio04",
+            "projectName": "practica-git-java_f247b436"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicioo3",
+            "request": "launch",
+            "mainClass": "ejercicios.Ejercicioo3",
+            "projectName": "practica-git-java_f247b436"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio02",
+            "request": "launch",
+            "mainClass": "ejercicios.Ejercicio02",
+            "projectName": "practica-git-java_f247b436"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio01",
+            "request": "launch",
+            "mainClass": "ejercicios.Ejercicio01",
+            "projectName": "practica-git-java_f247b436"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "practica-git-java_f247b436"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

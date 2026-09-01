@@ -14,7 +14,7 @@ public class Ejercicio04 {
             System.out.println("El número " + numero + " es impar.");
         }
     }*/
-    //otro tipo de metodo
+    //otro tipo de metodo 
        Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese un número: ");
         int numero = scanner.nextInt();
