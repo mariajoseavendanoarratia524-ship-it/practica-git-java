@@ -4,13 +4,13 @@ import java.util.Scanner;
 
 public class Ejercicio05 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Ingrese A: ");
-        int a = scanner.nextInt();
+        int a = sc.nextInt();
         System.out.print("Ingrese B: ");
-        int b = scanner.nextInt();
+        int b = sc.nextInt();
         System.out.print("Ingrese C: ");
-        int c = scanner.nextInt();
+        int c = sc.nextInt();
  
         int mayor;
  
@@ -23,6 +23,7 @@ public class Ejercicio05 {
         }
  
         System.out.println("El número mayor es: " + mayor);
+        sc.close();
     }
 }
     

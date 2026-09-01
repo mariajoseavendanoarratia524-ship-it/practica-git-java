@@ -24,5 +24,6 @@ public class Ejercicio04 {
         } else {
             System.out.println("El número " + numero + " es impar.");
         }
+        scanner.close();
     }
 }
