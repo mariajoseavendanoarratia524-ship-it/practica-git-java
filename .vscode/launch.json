@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaNotas",
+            "request": "launch",
+            "mainClass": "ejercicios.SistemaNotas",
+            "projectName": "practica-git-java_f247b436"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio06",
             "request": "launch",
             "mainClass": "ejercicios.Ejercicio06",
